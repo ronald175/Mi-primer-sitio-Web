@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%),url(logo_mega_fondo.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+body{
+    font-family: 'Times New Roman', Arial, Helvetica;
+    background-image: url(/imagenes/logo_mega_fondo.jpg);
+    /* background-repeat: no-repeat;*/
+    background-size: 100%;
+}
+
+header h1 img {
+    height: auto;
+    width: auto;
+    max-height: 50px;
+    max-width: 60px;
+    border-radius: 3px;
+    margin: 5px;
+    position: absolute;
+    top: 1px;
+    left: 380px;
+}
+
+header h1 .tel {
+    height: auto;
+    width: auto;
+    max-height: 50px;
+    max-width: 60px;
+    border-radius: 3px;
+    margin: 5px;
+    position: absolute;
+    top: 1px;
+    left: 650px;
+}
+
+header h3 {
+    height: auto;
+    width: auto;
+    margin: 5px;
+    top: 1px;
+    left: 1800px;
+}
+
+.navegacion{
+    list-style-type: none;
+    padding: 0;
+    background: #03E634;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.navegacion li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.navegacion li{
+    display: inline-block;
+    text-align: center;
+    top: 15px;
+}
+.navegacion li a:hover{
+    background:darkgreen;
+}
+
+.somos p {
+    font-size: x-large;
+    text-align: justify;
+}
+
+.somos{
+    list-style-type: none;
+    padding: 0;
+    background: #ffffffff;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.somos li{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+
+.navegacion li a:hover{
+    background:white;
+}
+.somos li {
+    display: inline-block;
+    text-align: center;
+    top: 15px;
+}
+
+.somos somosf {
+    display:block;
+    margin:auto;
+    }
+
+form {
+    margin: auto; /* Centramos el formulario */
+    width: auto;   /* Sin ancho no podemos centrar el formulario */
+    background-color:darkgreen; /* Color blanco para el formulario */
+    padding: 2px; /* separamos los bordes del form del resto de elementos */
+    border-radius: 20px; /* Redondeamos los bordes del form */
+    margin: auto;
+    }
+     
+form .boton textarea {
+        padding: 5px; /* Separamos la letra del interior (contenido) en los inputs de los bordes */
+    }
+     
+label {
+        display: block; /* Ahora los inputs quedan debajo de los label */
+        padding: 5px; /* Separando espacios internos */
+        margin: auto;
+    }
