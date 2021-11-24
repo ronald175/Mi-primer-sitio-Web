@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+section{
+    width: 50%;
+    background: #072e10;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    color: white;
+}
+
+.texto,textarea,label{
+    width: 90%;
+    background: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    margin-right: 16px;
+    border: 1px solid #08c427;
+    font-size: 45px;
+    margin:4%;
+    color:black;
+}
+
+
+.boton{
+    width: 100%;
+    background: yellowgreen;
+    border: none;
+    margin: 16 0;
+    font-size: 16px;
+    padding: 4%;
+    border-radius: 10px;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: separate;
+    border-radius: 15px;
+}
+
+table tr td h1{
+    text-align: justify;
+    font-size:xx-large;
+}

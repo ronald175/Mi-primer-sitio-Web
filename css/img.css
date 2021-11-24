@@ -1,4 +1,9 @@
-.megaU{
-    display:block;
-    margin:auto;
-    }
+.img{
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    max-width: 300px;
+    min-width: 350px;
+    max-height: 350px;
+    min-height: 350px;
+}

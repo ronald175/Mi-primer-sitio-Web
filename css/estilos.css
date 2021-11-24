@@ -61,7 +61,7 @@ header h3 {
 
 .navegacion li a{
     text-decoration: none;
-    color: white;
+    color:darkcyan;
     padding: 20px;
     display: block;
 }
@@ -75,7 +75,7 @@ header h3 {
 }
 
 .somos p {
-    font-size: x-large;
+    font-size: xx-large;
     text-align: justify;
 }
 
@@ -96,7 +96,7 @@ header h3 {
 }
 
 .navegacion li a:hover{
-    background:white;
+    background: white;
 }
 .somos li {
     display: inline-block;
@@ -127,3 +127,37 @@ label {
         padding: 5px; /* Separando espacios internos */
         margin: auto;
     }
+
+    .indice{
+        list-style: none; /*quitamos el circulo de la lista*/
+        display: block;
+        padding: 10px 10px 10px 20px;
+    }
+p{
+    font-size: xx-large;
+}
+
+.sub-menu{
+    list-style: none; /*quitamos el circulo de la lista*/
+    display: block;
+    padding: 10px 10px 10px 20px;
+}
+
+section{
+  
+    float: left;
+    width: 20%;
+    padding-left: 1%;
+    
+}
+#parrafo{
+    width: 80%;
+    padding: 1% 10%;
+}
+p{
+    text-align: justify ;
+}
+
+h2,h3,p {
+    color: black;
+}
