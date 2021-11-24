@@ -1,14 +1,17 @@
 # Mi-primer-sitio-Web
 
-<h1>PRÁCTICA DE LABORATORIO<h1> 
+PRÁCTICA DE LABORATORIO 
 
-<p>CARRERA: COMPUTACIÓN	ASIGNATURA: PROGRAMACION HIPERMEDIAL
+Estudiante: Ronald Andrade
+Asignatura: Programación Hipermedial.
+
+CARRERA: COMPUTACIÓN	ASIGNATURA: PROGRAMACION HIPERMEDIAL
 NRO. PRÁCTICA:	1	TÍTULO PRÁCTICA:  Mi Primera pagina web
 OBJETIVO ALCANZADO: 
-Realizar una pagina web mediante html y utilizando css para obtener un mejor manejo de diseños de la página</p>
+Realizar una pagina web mediante html y utilizando css para obtener un mejor manejo de diseños de la página
 
 
-<h2>ACTIVIDADES DESARROLLADAS<h2>
+ACTIVIDADES DESARROLLADAS
 
 1.HTML de menu 
   
@@ -49,12 +52,13 @@ Pagina principal o index
 Tablas 
 
 CONCLUSIONES:
-<ul>
-<li>Podemos concluir que la forma de hacer una pagina web viene de dos maneras, primero con html y luego se le puede dar forma con CSS, cabe recalcar que solo serán imágenes informativas sin ningún tipo de dinamismo, pero son suficientes para funcionar </li>
-<li>CSS nos permite jugar con la presentación de la pagina pero esto también es posible si se da una estructura adecuada a las etiquetas HTML </li>
-<li>Usar el repositorio de GIT nos ayuda a mantener la pagina en la nube y poder compartir nuestro trabajo con personas en el resto del mundo</li>
-</ul/>
-RECOMENDACIONES:  
-• Usar el programa carbón para sacar capturas de el codigo
 
-Nombre de estudiante:  Miguel Samaniego
+Hay varias maneras y metodos que se pueden implementar para un correcto desarrollo de unas paginas web, ya que el docente mediante explicaciones y ejemplos nos ha demostrado que no solo hay un camino para seguir sino que se puede usar varios metodos para llegar a un resultado deseado
+
+RECOMENDACIONES:  
+
+1. Aprender los tipos de estilos que puede haber para cada parte de un html
+2. Tener organización al momento de crear o comenzar cualquier proyectp ya que esto permite manejarlo de una manera mas optima.
+3. Saber interpretar y combinar los diferentes metodos que html nos ayuda a optimizar.
+
+
